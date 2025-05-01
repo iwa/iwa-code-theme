@@ -3,6 +3,8 @@
     "displayName": "iwa-code-theme",
     "description": "",
     "version": "0.1.0",
+    "author": "iwa",
+    "publisher": "iwa",
     "repository": {
         "type": "git",
         "url": "https://github.com/iwa/iwa-code-theme.git"
