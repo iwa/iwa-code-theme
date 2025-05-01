@@ -5,6 +5,7 @@
     "version": "0.1.0",
     "author": "iwa",
     "publisher": "iwa",
+    "icon": "icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/iwa/iwa-code-theme.git"
