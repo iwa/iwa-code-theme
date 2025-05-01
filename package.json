@@ -1,0 +1,21 @@
+{
+  "name": "iwa-code-theme",
+  "displayName": "iwa-code-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "iwa's Code Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/iwa-code-theme-color-theme.json"
+      }
+    ]
+  }
+}
