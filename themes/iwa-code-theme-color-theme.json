@@ -1,8 +1,11 @@
 // Primary background: #27282E   - 230 16 18
 // Secondary background: #202126 - 230 15 15
+// Tercary background: #1B1B1F   - 230 13 12
+// Borders: #3A3B40              - 230 10 25
 // Active background: #2B2D33    - 230 15 20
 // Active brighter: #3D3F48      - 230 15 28
 // Text inactive: #74757B        - 230  6 48
+// Accent color: #a187e8
 
 {
     "name": "iwa's Code Theme",
