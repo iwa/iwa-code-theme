@@ -140,6 +140,7 @@
 
         // others (to be organized)
         "input.background": "#27282E",
+        "input.border": "#3A3B40",
 
         "scrollbarSlider.activeBackground": "#747D9180",
         "scrollbarSlider.background": "#4E566680",
