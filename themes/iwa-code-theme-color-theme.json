@@ -147,7 +147,7 @@
         "scrollbarSlider.hoverBackground": "#5A637580",
 
         "scrollbar.shadow": "#ffffff00",
-        "widget.shadow": "#ffffff00",
+        "widget.shadow": "#1B1B1F",
     },
     "tokenColors": [
         {
