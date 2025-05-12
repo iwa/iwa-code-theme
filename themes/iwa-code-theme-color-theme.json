@@ -148,6 +148,8 @@
 
         "scrollbar.shadow": "#ffffff00",
         "widget.shadow": "#1B1B1F",
+
+        "tab.activeBorderTop": "#a187e8",
     },
     "tokenColors": [
         {
