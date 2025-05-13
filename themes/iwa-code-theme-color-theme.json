@@ -82,10 +82,10 @@
         "editorWidget.background": "#202126",
 
         "editorHoverWidget.background": "#202126",
-        "editorHoverWidget.border": "#181A1F",
+        "editorHoverWidget.border": "#1B1B1F",
 
         "editorSuggestWidget.background": "#202126",
-        "editorSuggestWidget.border": "#181A1F",
+        "editorSuggestWidget.border": "#1B1B1F",
         "editorSuggestWidget.selectedBackground": "#2c313a",
 
         // Button color
@@ -99,7 +99,7 @@
 
         // Dropdown colors
         "dropdown.background": "#1d1f23",
-        "dropdown.border": "#181A1F",
+        "dropdown.border": "#1B1B1F",
 
         // Find match colors
         "editor.findMatchBackground": "#42557B",
