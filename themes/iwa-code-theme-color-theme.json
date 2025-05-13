@@ -168,6 +168,8 @@
         "widget.shadow": "#1B1B1F",
 
         "tab.activeBorderTop": "#a187e8",
+
+        "welcomePage.background": "#27282E",
     },
     "tokenColors": [
         {
