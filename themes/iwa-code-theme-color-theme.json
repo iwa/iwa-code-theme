@@ -18,6 +18,8 @@
 		"editor.lineHighlightBackground": "#3D3F48",
 		"editorCursor.foreground": "#f8f8f0",
 		"editorWhitespace.foreground": "#484a50",
+        "focusBorder": "#a187e8",
+        "sash.hoverBorder": "#a187e8",
 
         // Side bar
         "sideBar.background": "#202126",
@@ -88,8 +90,10 @@
         "editorSuggestWidget.border": "#1B1B1F",
         "editorSuggestWidget.selectedBackground": "#2c313a",
 
-        // Button color
+        // Button & Checkbox color
         "button.background": "#a187e8",
+        "checkbox.background": "#202126",
+        "checkbox.foreground": "#a187e8",
 
         // Debug bar
         "debugToolBar.background": "#27282E",
