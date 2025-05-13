@@ -21,6 +21,11 @@
         "focusBorder": "#a187e8",
         "sash.hoverBorder": "#a187e8",
 
+        // Editor gutter
+        "editorGutter.addedBackground": "#98c379",
+        "editorGutter.modifiedBackground": "#f9e2af",
+        "editorGutter.deletedBackground": "#e06c75",
+
         // Side bar
         "sideBar.background": "#202126",
         "sideBarSectionHeader.background": "#27282E",
@@ -99,7 +104,13 @@
         "debugToolBar.background": "#27282E",
 
         // Diff colors
-        "diffEditor.insertedTextBackground": "#00809B33",
+        "diffEditor.diagonalFill": "#3A3B40",
+        "diffEditor.insertedTextBackground": "#98c3791B",
+        "diffEditor.removedTextBackground": "#e06c751B",
+        "diffEditor.insertedLineBackground": "#98c37916",
+        "diffEditor.removedLineBackground": "#e06c7516",
+        "diffEditorOverview.insertedForeground": "#98c37920",
+        "diffEditorOverview.removedForeground": "#e06c7520",
 
         // Dropdown colors
         "dropdown.background": "#1d1f23",
