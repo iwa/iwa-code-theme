@@ -170,6 +170,8 @@
         "tab.activeBorderTop": "#a187e8",
 
         "welcomePage.background": "#27282E",
+
+	"extensionIcon.verifiedForeground": "#a6e3a1",
     },
     "tokenColors": [
         {
